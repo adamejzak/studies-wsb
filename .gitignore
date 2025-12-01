@@ -1,0 +1,11 @@
+output/
+**/output/
+
+*.o
+*.obj
+*.class
+*.exe
+*.dll
+*.out
+*.log
+*.tmp
