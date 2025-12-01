@@ -1,0 +1,8 @@
+Pole i obwód prostokąta
+
+
+Napisz program w języku C, który:
+
+• wczytuje dwie liczby naturalne oznaczające długości boków prostokąta,
+
+• oblicza i wypisuje pole oraz obwód prostokąta.

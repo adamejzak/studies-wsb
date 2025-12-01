@@ -1,0 +1,4 @@
+Obecność na laboratorium 1
+
+
+Napisz programw języku C, w którym wyświetlisz powitanie i przedstawisz się

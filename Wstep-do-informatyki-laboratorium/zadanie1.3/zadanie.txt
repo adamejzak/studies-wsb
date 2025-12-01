@@ -1,0 +1,16 @@
+Temperatura ciała
+
+
+Napisz program w języku C, który:
+
+• pobiera od użytkownika temperaturę ciała (liczba zmiennoprzecinkowa),
+
+• na podstawie podanej wartości wyświetla komunikat:
+
+* "OK" – jeśli temperatura jest od 36.6 do 37.0 włącznie,
+
+* "stan podgorączkowy" – jeśli temperatura jest od 37.1 do 38.0 włącznie,
+
+* "gorączka" – jeśli temperatura jest od 38.1 do 41.0 włącznie,
+
+* "skonsultuj się z lekarzem" – w każdym innym przypadku.

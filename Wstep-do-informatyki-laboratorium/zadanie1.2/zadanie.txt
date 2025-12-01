@@ -1,0 +1,12 @@
+Ceny netto, brutto, VAT
+
+
+Napisz program w języku C, który:
+
+• wczytuje cenę netto (liczba zmiennoprzecinkowa) oraz stawkę VAT w procentach,
+
+• oblicza kwotę VAT oraz cenę brutto,
+
+• wyświetla obliczone wartości z dokładnością do dwóch miejsc po przecinku, dodając odpowiednio symbol zł oraz znak %.
+
+Przykład: Dla ceny netto 100 zł i stawki 22%, program powinien wyświetlić VAT = 22,00 zł, cena brutto = 122,00 zł.

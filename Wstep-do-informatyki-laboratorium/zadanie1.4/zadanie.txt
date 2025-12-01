@@ -1,0 +1,14 @@
+Minimum, maksimum
+
+
+Napisz program w języku C, który:
+
+• Wczytuje trzy liczby całkowite podane przez użytkownika.
+
+• Za pomocą instrukcji if wyznacza:
+
+* największą z nich,
+
+* najmniejszą z nich.
+
+• Wyświetla wynik w czytelnej formie.

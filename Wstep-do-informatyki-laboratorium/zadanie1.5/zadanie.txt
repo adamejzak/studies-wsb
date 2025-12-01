@@ -1,0 +1,10 @@
+Dni tygodnia (switch)
+
+
+Napisz program w języku C, który:
+
+• wczytuje liczbę od 1 do 7,
+
+• wyświetla odpowiedni dzień tygodnia (1 – poniedziałek, 2 – wtorek, …, 7 – niedziela),
+
+• do wyboru dnia tygodnia używa instrukcji switch.
